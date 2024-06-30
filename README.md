@@ -1,5 +1,5 @@
 # Autonomous-Mobile-Robot
-This is an Autonomous Mobile Robot (AMR) 
+This is an Autonomous Mobile Robot
 designed to enhance navigation and object handling within a warehouse environment. 
 This project involved implementing advanced sensory perception using ultrasonic sensors for 
 obstacle detection and RFID technology for precise localization. I designed control algorithms for 
